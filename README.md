@@ -56,6 +56,7 @@ Rewrite [the fourth promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&sour
 
  "I will make frequent, small, releases so that I do not impede the progress of others."
 
+Break everything in little pieces.
 [TOP](#the-programmers-oath)
 
 ___
